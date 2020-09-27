@@ -1,7 +1,7 @@
 ---
 title: "git_00"
-author: "Your Name here"
-date: "Year 2020"
+author: "Viviana Hernandez"
+date: "September 2020"
 output: html_document
 ---
 
@@ -16,11 +16,52 @@ you, if you change any of this the git program will notice it and compromise you
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
+'Tis the voice of the Lobster: I heard him declare  
+"You have baked me too brown, I must sugar my hair."  
+As a duck with its eyelids, so he with his nose  
+Trims his belt and his buttons, and turns out his toes.  
+When the sands are all dry, he is gay as a lark  
+
+
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
+
+Nature's first green is gold,  
+Her hardest hue to hold.  
+Her early leaf's a flower;   
+But only so an hour.  
+Then leaf subsides to leaf.   
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 
+"The sun was shining on the sea,  
+      Shining with all his might:  
+He did his very best to make  
+      The billows smooth and bright —  
+And this was odd, because it was  
+      The middle of the night.  
+  
+The moon was shining sulkily,  
+      Because she thought the sun  
+Had got no business to be there  
+      After the day was done —  
+"It's very rude of him," she said,  
+      "To come and spoil the fun."  
+
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+
+I ne’er was struck before that hour  
+   With love so sudden and so sweet,  
+Her face it bloomed like a sweet flower  
+   And stole my heart away complete.  
+My face turned pale as deadly pale,  
+   My legs refused to walk away,  
+And when she looked, what could I ail?  
+   My life and all seemed turned to clay.  
+  
+And then my blood rushed to my face  
+   And took my eyesight quite away,  
+The trees and bushes round the place  
+   Seemed midnight at noonday.  
